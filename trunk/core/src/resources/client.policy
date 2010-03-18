@@ -1,0 +1,3 @@
+grant codeBase "file:/home/yaz/ws/whiteboard4j/out/production/whiteboard4j" {
+    permission java.security.AllPermission;
+};
