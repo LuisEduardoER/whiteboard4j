@@ -1,0 +1,1 @@
+A simple textual whiteboard written in Java using the RMI API.
